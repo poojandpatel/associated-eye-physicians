@@ -32,6 +32,9 @@ repository: "poojandpatel/njeyedocs"
 logo: "/assets/images/aep_logo.png"
 masthead_title: ""
 
+include:
+  - _pages
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
