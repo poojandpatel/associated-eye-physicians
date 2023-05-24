@@ -11,7 +11,7 @@
 }
 
 .archive__item-title {
-    text-align: left;
+    text-align: center;
     color: orange;
     font-size: 1.25em;
 }
@@ -24,10 +24,4 @@
 .feature__item--center .archive__item-body {
     margin: 0 auto;
     width: 100%;
-}
-
-.feature__wrapper img {
-    width: 250px;
-    height: 250px;
-    object-fit: cover;
 }

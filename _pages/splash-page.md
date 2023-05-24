@@ -14,21 +14,30 @@ intro:
   - title: 'Our Mission'
     excerpt: "Associated Eye Physicians is a team of experienced board-certified ophthalmologists and optometrists dedicated to providing comprehensive and personalized eye care to patients of all ages. We use the latest laser technology and treatments to diagnose and provide the best possible care for eye diseases and vision correction. Our team committed to providing our patients with a warm, friendly, and professional experience."
 
+physicians:
+- title: 'We are Associated Eye Physicians'
+
 feature_row_physicians:
-- image_path: /assets/images/providers/alessandra_bertolucci.jpeg
-  excerpt: "Dr.Alessandra Bertolucci, MD, FAAO"
-- image_path: /assets/images/providers/michael_landolfi.jpeg
-  excerpt: "Dr. Michael Landolfi, DO"
-- image_path: /assets/images/providers/albert_zazzali.jpeg
-  excerpt: "Dr. Albert Zazzali, MD, FAAO"
+- url: /assets/images/providers/alessandra_bertolucci.jpeg
+  image_path: /assets/images/providers/alessandra_bertolucci.jpeg
+  title: "Alessandra Bertolucci, MD, FAAO"
+- url: /assets/images/providers/michael_landolfi.jpeg
+  image_path: /assets/images/providers/michael_landolfi.jpeg
+  title: "Michael Landolfi, DO"
+- url: /assets/images/providers/albert_zazzali.jpeg
+  image_path: /assets/images/providers/albert_zazzali.jpeg
+  title: "Albert Zazzali, MD, FAAO"
 - image_path: /assets/images/providers/jennifer_vicente.jpeg
-  excerpt: "Dr. Jennifer A Vicente, OD FAAO"
+  url: /assets/images/providers/jennifer_vicente.jpeg
+  title: "Jennifer A Vicente, OD FAAO"
 - image_path: /assets/images/providers/kaitlyn_kolzow_reda.jpeg
-  excerpt: "Dr. Kaitlyn Kolzow Reda, OD"
+  url: /assets/images/providers/kaitlyn_kolzow_reda.jpeg
+  title: "Kaitlyn Kolzow Reda, OD"
 - image_path: /assets/images/providers/thomas_materna.png
-  excerpt: "Dr. Thomas Materna, MD, FAAO"
+  url: /assets/images/providers/thomas_materna.png
+  title: "Thomas Materna, MD, FAAO"
 ---
 
 {% include feature_row id="intro" type="center" %}
-# <span style="color:orange"> We are Associated Eye Physicians </span>
-{% include feature_row id="feature_row_physicians"%}
+{% include feature_row id="physicians" type="center" %}
+{% include gallery id="feature_row_physicians" caption="Click on photo for more details." %}
