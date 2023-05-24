@@ -23,5 +23,11 @@
 
 .feature__item--center .archive__item-body {
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
+}
+
+.feature__wrapper img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
 }
