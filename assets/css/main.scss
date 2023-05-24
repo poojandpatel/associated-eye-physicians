@@ -2,6 +2,26 @@
 ---
 @import "{{ site.theme }}";
 
+.greedy-nav a.site-title {
+    display: none;
+}
+
 .site-logo img {
     max-height: 3rem;
+}
+
+.archive__item-title {
+    text-align: left;
+    color: orange;
+    font-size: 1.25em;
+}
+
+.archive__item-excerpt {
+    text-align: justify;
+    font-size: 1em;
+}
+
+.feature__item--center .archive__item-body {
+    margin: 0 auto;
+    width: 80%;
 }
