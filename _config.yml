@@ -28,7 +28,7 @@ baseurl: "/associated-eye-physicians" # the subpath of your site, e.g. /blog
 url: "http://poojandpatel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-repository: "poojandpatel/njeyedocs"
+repository: "poojandpatel/associated-eye-physicians"
 logo: "/assets/images/aep_logo.png"
 masthead_title: ""
 
