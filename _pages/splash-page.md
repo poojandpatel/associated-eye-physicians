@@ -53,7 +53,7 @@ feature_row_physicians:
   url: "/providers/#thomas-materna-md-faao"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="justify" %}
 
 <div class="feature_row_physicians">
   <h1>We are Associated Eye Physicians</h1>
