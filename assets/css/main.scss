@@ -25,28 +25,28 @@
     width: 100%;
 }
 
-div.feature_row_physicians h1{
+.feature_row_physicians h1{
     text-align: left;
     color: orange;
     font-size: 1.25em;
     padding-bottom: 0.5em;
 }
 
-div.feature_row_physicians h2{
+.feature_row_physicians h2{
     text-align: center;
     color: grey;
     font-size: 1em;
 }
 
-div.feature_row_physicians div.archive__item-teaser {
+.feature_row_physicians .archive__item-teaser {
     text-align: center;
 }
 
-div.feature_row_physicians div.archive__item-body p {
+.feature_row_physicians .archive__item-body p {
     text-align: center;
 }
 
-div.feature_row_physicians img {
+.feature_row_physicians img {
     border-radius: 50%;
     width: 250px;
     height: 250px;
@@ -93,26 +93,22 @@ div.feature_row_physicians img {
     padding: 1%;
 }
 
-div.services  {
+.services  {
     text-align: center;
 }
 
-div.services img {
+.services img {
     width: 128px;
     height: 128px;
 }
 
 .faqs {
-    /* Container styling */
-    /* Example styles: */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
   
 .faq {
-    /* Inner div styling */
-    /* Example styles: */
     padding: 20px;
     margin: 10px;
     background-color: #f0f0f0;
