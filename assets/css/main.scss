@@ -16,6 +16,27 @@
     font-size: 1.25em;
 }
 
+.feature_row_physicians h1{
+    text-align: center;
+    color: orange;
+    font-size: 1.4em;
+    padding-bottom: 0.5em;
+}
+
+.feature_row_physicians h2{
+    text-align: center;
+    color: black;
+    font-size: 1em;
+}
+
+div.feature_row_physicians div.archive__item-teaser {
+    text-align: center;
+}
+
+div.feature_row_physicians div.archive__item-body p {
+    text-align: center;
+}
+
 .archive__item-excerpt {
     text-align: justify;
     font-size: 1em;
@@ -30,4 +51,28 @@
     width: 250px;
     height: 250px;
     object-fit: cover;
+}
+
+.provider_info img
+ {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    padding-bottom: 0.5rem;
+ }
+
+ .provider_info p {
+    text-align: justify;
+ }
+
+ .provider_info {
+    text-align: center;
+ }
+
+.locations {
+    display: block;
+    float: left;
+    text-align: center;
+    position: relative;
 }

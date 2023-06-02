@@ -1,7 +1,7 @@
 main:
   - title: "Providers"
-    url: /
+    url: /providers/
   - title: "Services"
     url: /
   - title: "Contact Us"
-    url: /
+    url: /contact-page/
