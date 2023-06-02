@@ -12,8 +12,10 @@ header:
   actions:
     - label: "Contact Us Today!"
       url: /contact-page/
+    - label: "Services Offered"
+      url: /services/
 
-excerpt: "The Associated Eye Physicians practice has grown to encompass several offices, across New Jersey and New York City, maintaining the family-oriented ambiance that allows the team to work behind the scene to deliver personalized eye care."
+excerpt: "The Associated Eye Physicians practice has grown to encompass several offices, serving northern New Jersey: Clifton, Elizabeth, Newark, Pompton Lakes, and Westfield. All while maintaining the family-oriented ambiance that allows the team to work behind the scene to deliver personalized eye care."
 
 intro: 
   - title: 'Our Mission'
@@ -52,7 +54,6 @@ feature_row_physicians:
   btn_class: "btn--primary" 
   url: "/providers/#thomas-materna-md-faao"
 ---
-
 {% include feature_row id="intro" type="justify" %}
 
 <div class="feature_row_physicians">

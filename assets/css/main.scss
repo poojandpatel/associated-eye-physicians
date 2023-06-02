@@ -16,14 +16,23 @@
     font-size: 1.25em;
 }
 
-.feature_row_physicians h1{
+.archive__item-excerpt {
+    text-align: justify;
+    font-size: 1em;
+}
+
+.feature__item--center .archive__item-body {
+    width: 100%;
+}
+
+div.feature_row_physicians h1{
     text-align: left;
     color: orange;
-    font-size: 1.4em;
+    font-size: 1.25em;
     padding-bottom: 0.5em;
 }
 
-.feature_row_physicians h2{
+div.feature_row_physicians h2{
     text-align: center;
     color: grey;
     font-size: 1em;
@@ -37,21 +46,13 @@ div.feature_row_physicians div.archive__item-body p {
     text-align: center;
 }
 
-.archive__item-excerpt {
-    text-align: justify;
-    font-size: 1em;
-}
-
-.feature__item--center .archive__item-body {
-    width: 100%;
-}
-
-.feature__wrapper img {
+div.feature_row_physicians img {
     border-radius: 50%;
     width: 250px;
     height: 250px;
     object-fit: cover;
 }
+
 
 .provider_info img
  {
@@ -72,22 +73,47 @@ div.feature_row_physicians div.archive__item-body p {
 
  center h2 {
     color: orange;
-    font-size: 1.4em;
+    font-size: 1.25em;
     padding-bottom: 0.5em;
  }
 
- .locations {
+.locations {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
 
-.locations p{
+.locations p {
     margin: 0;
 }
 
 .locations > div {
     text-align: center;
     padding: 1%;
+}
+
+div.services  {
+    text-align: center;
+}
+
+div.services img {
+    width: 128px;
+    height: 128px;
+}
+
+.faqs {
+    /* Container styling */
+    /* Example styles: */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+.faq {
+    /* Inner div styling */
+    /* Example styles: */
+    padding: 20px;
+    margin: 10px;
+    background-color: #f0f0f0;
 }

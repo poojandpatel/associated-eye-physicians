@@ -2,12 +2,10 @@
 title: Contact Us
 layout: splash
 header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /assets/images/splash.jpg
+    overlay_color: "#F2A83B"
 permalink: /contact-page/
 phone_number: 973-745-7000
-excerpt: "Feel free to reach out or book an appointment with one of our doctors at various locations."
+excerpt: "Feel free to reach out or book an appointment with one of our doctors at our various locations."
 ---
 <center> <h2> Locations </h2> </center>
 <div class="locations">

@@ -8,7 +8,6 @@ header:
       url: /contact-page/
 permalink: /providers/
 excerpt: "Learn more about our board certified family of physicians"
-
 ---
 ## Alessandra Bertolucci, MD, FAAO
 <div class="provider_info">

@@ -40,6 +40,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 footer:
   links:
