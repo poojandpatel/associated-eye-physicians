@@ -5,7 +5,7 @@ header:
     overlay_color: "#F2A83B"
 permalink: /contact-page/
 phone_number: 973-745-7000
-excerpt: "Feel free to reach out to book an appointment with one of our doctors at any of our various locations."
+excerpt: "Feel free to reach out to book an appointment with one of our doctors at any of our various locations. Our hours are Monday to Friday 9:00 AM to 5:00 PM and Saturday by appointment only."
 ---
 <center> <h2> Locations </h2> </center>
 <div class="locations">
