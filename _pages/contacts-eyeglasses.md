@@ -2,8 +2,7 @@
 title: Contacts and Eyeglasses
 layout: splash
 header:
-    overlay_filter: "0.5"
-    overlay_image: /assets/images/services/ce2.avif
+    overlay_color: "#F2A83B"
     actions:
     - label: "Book an Appointment Today!"
       url: /contact-page/

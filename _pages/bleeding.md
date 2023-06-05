@@ -1,5 +1,5 @@
 ---
-title: Subconjunctival Hemorrhage (Bleeding)
+title: Bleeding in the Eyes
 layout: splash
 header:
     overlay_color: "#F2A83B"

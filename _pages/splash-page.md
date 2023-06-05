@@ -28,7 +28,7 @@ feature_row_physicians:
   btn_label: "Read More"
   btn_class: "btn--primary" 
   url: "/providers/#alessandra-bertolucci-md-faao"
-- image_path: /assets/images/providers/michael_landolfi.jpeg
+- image_path: /assets/images/providers/michael_landolfi.jpg
   title: "Michael Landolfi, DO"
   btn_label: "Read More"
   btn_class: "btn--primary" 
@@ -54,6 +54,7 @@ feature_row_physicians:
   btn_class: "btn--primary" 
   url: "/providers/#thomas-materna-md-faao"
 ---
+<link rel="icon" href="../assets/images/aep_favicon.ico" type="image/x-icon">
 {% include feature_row id="intro" type="justify" %}
 
 <div class="feature_row_physicians">

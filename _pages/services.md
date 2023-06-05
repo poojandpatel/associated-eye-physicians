@@ -15,7 +15,7 @@ feature_row_services:
   excerpt: "The team at the Associated Eye Physicians provide outstanding care for the diagnosis and treatment of Macular Degeneration."
   btn_label: "Read More"
   btn_class: "btn--primary" 
-  url: "/macular-degeneration//"
+  url: "/macular-degeneration/"
 - image_path: /assets/images/services/diabetic_retinopathy.png
   title: "Diabetic Retinopathy"
   excerpt: "The team at the Associated Eye Physicians provide outstanding care for the diagnosis and treatment of Diabetic Retinopathy."
@@ -47,8 +47,8 @@ feature_row_services:
   btn_class: "btn--primary" 
   url: "/services/"
 - image_path: /assets/images/services/bleeding.png
-  title: "Subconjunctival Hemorrhage (Bleeding)"
-  excerpt: "The team at Associated Eye Physicians provides urgent care for subconjunctival hemorrhage."
+  title: "Bleeding in the Eyes"
+  excerpt: "The team at Associated Eye Physicians provides urgent care for any bleeding in the eyes."
   btn_label: "Read More"
   btn_class: "btn--primary" 
   url: "/bleeding/"

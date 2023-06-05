@@ -26,7 +26,7 @@ excerpt: "Learn more about our board certified family of physicians"
 ## Michael Landolfi, DO
 
 <div class="provider_info">
-    <img src="../assets/images/providers/michael_landolfi.jpeg" alt="Michael Landolfi, DO"/>
+    <img src="../assets/images/providers/michael_landolfi.jpg" alt="Michael Landolfi, DO"/>
     <p>
     Dr. Michael Landolfi is a graduate of Boston College in Chestnut Hill, MA. He graduated from Rowan University School of Osteopathic Medicine. He completed his residency in ophthalmology at the University of Medicine and Dentistry of New Jersey. Dr. Landolfi specializes in cataract surgery and premium intraocular lens implants, including multifocal and astigmatism-correcting lenses. He is a member of the River Drive Surgery and Laser Center and is one of the first ophthalmologists in New Jersey trained to perform Laser Cataract Surgery. Additionally, he serves as the Chief of the Department of Ophthalmology at Clara Maass MC.
     <br><br>
