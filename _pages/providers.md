@@ -20,6 +20,8 @@ excerpt: "Learn more about our board certified family of physicians"
     Currently, Dr. Bertolucci is a Clinical Associate Professor at Mount Sinai University and practices at the New York Eye and Ear Infirmary as the director of the Lab of Electrophysiology of Vision.
     <br><br>
     As a Fellow of the American Academy of Ophthalmology and the American Society of Retina Specialists, Dr. Bertolucci has been providing the highest standard of eye care for patients in a personalized and caring environment at Associated Eye Physicians since 2002. She has been peer-selected as a NJ Top Doctor from 2019 through 2022.
+    <br><br>
+    Check out her profile at <a href="https://njtopdocs.com/nj-doctors/dralessandrabertolucci/"> NJ Top Docs </a>
     </p>
 </div>
 

@@ -9,8 +9,6 @@ header:
 permalink: /bleeding/
 excerpt: " A variety of causes can lead to bleeding in the eyes, otherwise known as a subconjunctival hemorrhage. Schedule an eye exam today at our nearest office you can get the personalized treatment you need."
 ---
-
-
 <div class="faqs">
 
   <div class="faq">
