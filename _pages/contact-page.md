@@ -11,6 +11,14 @@ excerpt: "Feel free to reach out to book an appointment with one of our doctors 
 <div class="contact-form">
 <form action="https://formspree.io/f/mdovrwdl" method="POST">
   <label>
+    Your name:
+    <input type="text" name="name">
+  </label>
+    <label>
+    Your phone:
+    <input type="tel" name="phone">
+  </label>
+  <label>
     Your email:
     <input type="email" name="email">
   </label>
