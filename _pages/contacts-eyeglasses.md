@@ -7,8 +7,8 @@ header:
     - label: "Book an Appointment Today!"
       url: /contact-page/
 permalink: /contacts-eyeglasses/
-excerpt: "Schedule an eye exam today to update your eyeglasses or contact prescriptions."
-
+excerpt: "Schedule an eye exam today at the nearest Associated Eye Physicians office to update your eyeglasses or contact prescriptions."
+description: "Schedule an eye exam today at the nearest Associated Eye Physicians office to update your eyeglasses or contact prescriptions."
 contacts_and_eyeglasses:
 - title: "Contacts and Eyeglasses Specialist"
   excerpt: "At Associated Eye Physicians, we understand that your eyeglasses should not only provide clear vision but also reflect your personal style. That's why our experienced team of ophthalmologists and optometrists offers a diverse selection of frames in our optical shop. We also provide the opportunity to try different contact lenses to find the perfect fit for your vision and comfort."

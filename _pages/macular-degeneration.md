@@ -7,7 +7,8 @@ header:
     - label: "Book an Appointment Today!"
       url: /contact-page/
 permalink: /macular-degeneration/
-excerpt: "Early detection is crucial in managing Macular Degeneration to minize its effects! Schedule an eye exam today at our Clifton, NJ or Elizabeth, NJ office to come up with a personalized plan."
+excerpt: "Early detection is crucial in managing Macular Degeneration to minize its effects - schedule an eye exam today at the nearest Associated Eye Physicians office to come up with a personalized plan."
+description: "Early detection is crucial in managing Macular Degeneration to minize its effects - schedule an eye exam today at the nearest Associated Eye Physicians office to come up with a personalized plan."
 ---
 <div class="faqs">
   <div class="faq">

@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /services/
 excerpt: "Learn more about how we can help you keep your eyes and vision healthy"
-
+description: "The Associated Eye Physicians practice offers all inclusive eye-care which includes Macular eye disease, Cataract, Glaucoma, Contacts and Eyewear, any Vision Loss, or Bleeding in the eyes."
 feature_row_services:
 - image_path: /assets/images/services/macular_degeneration.png
   title: "Macular Eye Disease"
