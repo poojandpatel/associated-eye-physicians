@@ -5,8 +5,8 @@ header:
     overlay_color: "#F2A83B"
 permalink: /contact-page/
 phone_number: 973-745-7000
-excerpt: "Feel free to reach out to book an appointment with one of our doctors at any of our various locations."
-description: "Book an appointment today with Associated Eye Physicians serving northern New Jersey."
+excerpt: "Book an appointment today with Associated Eye Physicians serving northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield"
+description: "Book an appointment today with Associated Eye Physicians serving northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield"
 ---
 ## Send us a Message
 Our hours are Monday to Friday 9:00 AM to 5:00 PM and Saturday by appointment only.  

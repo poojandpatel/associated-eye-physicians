@@ -7,8 +7,8 @@ header:
     - label: "Book an Appointment Today!"
       url: /contact-page/
 permalink: /bleeding/
-excerpt: " A variety of causes can lead to bleeding in the eyes, otherwise known as a subconjunctival hemorrhage. Schedule an eye exam today at nearest Associated Eye Physicians office you can get the personalized treatment you need."
-description: " A variety of causes can lead to bleeding in the eyes, otherwise known as a subconjunctival hemorrhage. Schedule an eye exam today at nearest Associated Eye Physicians office you can get the personalized treatment you need."
+excerpt: " A variety of causes can lead to bleeding in the eyes, otherwise known as a subconjunctival hemorrhage. Schedule an eye exam today at nearest NJ Associated Eye Physicians office you can get the personalized treatment you need."
+description: "A variety of causes can lead to bleeding in the eyes. Schedule an eye exam today at the nearest Northern New Jersey Associated Eye Physicians office."
 ---
 <div class="faqs">
 

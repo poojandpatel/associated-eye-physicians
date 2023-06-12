@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /providers/
 description: "Learn more about our board certified family of physicians serving the northern New Jersey area"
-excerpt: "Learn more about our board certified family of physicians"
+excerpt: "Learn more about our award-winning board certified family of physicians serving New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield"
 ---
 ## Alessandra Bertolucci, MD, FAAO
 <div class="provider_info">

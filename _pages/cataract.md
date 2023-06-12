@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /cataract/
 excerpt: "Schedule an eye exam today at the nearest Associated Eye Physicians office to discover the path to clear vision after cataracts"
-description: "At Associated Eye Physicians  our skilled team of ophthalmologists, led by Dr. Alessandra Bertolucci, offer advanced laser surgery to remove cataracts and improve your vision - Schedule an appointment today"
+description: "Schedule an appointment today at the nearest New Jersey Associated Eye Physicians office to treat cataracts and improve your vision"
 contacts_and_eyeglasses:
 - title: "Cataract Specialist"
   excerpt: "By the age of 80, it is highly likely that you will develop cataracts or have already undergone cataract surgery. At Associated Eye Physicians  our skilled team of ophthalmologists, led by Dr. Alessandra Bertolucci, offer advanced laser surgery to remove cataracts and improve your vision."

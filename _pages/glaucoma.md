@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /glaucoma/
 excerpt: "Schedule an eye exam today at the nearest Associated Eye Physicians office to diagnose and treat Glaucoma."
-description: "Schedule an eye exam today at the nearest Associated Eye Physicians office to diagonse and treat Glaucoma."
+description: "Schedule a visit at the nearest New Jersey Associated Eye Physicians office to come up with a plan to treat Glaucoma"
 contacts_and_eyeglasses:
 - title: "Glaucoma Specialist"
   excerpt: "Over three million Americans live with glaucoma, a leading cause of blindness. At Associated Eye Physicians, Dr. Bertolucci and her team specialize in diagnosing and treating Glaucoma, providing top-quality care to patients in Clifton, Elizabeth, NJ and, and nearby areas. Regular eye exams are crucial for preventing glaucoma-related blindness."

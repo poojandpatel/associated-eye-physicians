@@ -7,8 +7,8 @@ header:
     - label: "Book an Appointment Today!"
       url: /contact-page/
 permalink: /diabetic-retinopathy/
-excerpt: "Unmanaged diabetes often leads to a host of other health complications, including diabetic retinopathy — an eye condition that may lead to blindness if ignored. If you are a diabetic, and are beginning to notice changes in your vision, it could be Diabetic Retinopathy. Schedule an eye exam today at any of our offices to come up with a personalized plan."
-description: "Unmanaged diabetes often leads to a host of other health complications, including diabetic retinopathy — Schedule an eye exam today at aat the nearest Associated Eye Physicians office to come up with a personalized plan."
+excerpt: "Unmanaged diabetes often leads to a host of other health complications, including diabetic retinopathy — an eye condition that may lead to blindness if ignored. If you are a diabetic, and are beginning to notice changes in your vision, it could be Diabetic Retinopathy. Schedule an eye exam today at any of our northern New Jersey offices to come up with a personalized plan."
+description: "Schedule a visit at the nearest New Jersey Associated Eye Physicians office to come up with a plan to treat diabetic retinopathy."
 ---
 <div class="faqs">
   <div class="faq">

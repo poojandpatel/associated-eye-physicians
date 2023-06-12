@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /vision-loss/
 excerpt: "Age-related eye problems are common, but not all lead to vision loss and floaters. Schedule an eye exam today at the nearest Associated Eye Physicians office to conduct a detailed examination to evaluate your overall eye health and any risk factors you may have that could lead to vision loss."
-description: "Age-related eye problems are common, but not all lead to vision loss and floaters. Schedule an eye exam today at the nearest Associated Eye Physicians office to conduct a detailed examination to evaluate your overall eye health and any risk factors you may have that could lead to vision loss."
+description: "Schedule a visit at the nearest New Jersey Associated Eye Physicians office to come up with a plan to treat vision loss and floaters"
 ---
 
 <div class="faqs">

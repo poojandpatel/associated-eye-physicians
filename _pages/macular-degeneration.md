@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /macular-degeneration/
 excerpt: "Early detection is crucial in managing Macular Degeneration to minize its effects - schedule an eye exam today at the nearest Associated Eye Physicians office to come up with a personalized plan."
-description: "Early detection is crucial in managing Macular Degeneration to minize its effects - schedule an eye exam today at the nearest Associated Eye Physicians office to come up with a personalized plan."
+description: "Early detection of Macular Degeneration is crucial to minimize its effects. Schedule a visit today at nearest New Jersey Associated Eye Physicians office"
 ---
 <div class="faqs">
   <div class="faq">
