@@ -23,7 +23,7 @@ email: abertolucci@njeyedocs.com
 description: >- # this means to ignore newlines until "baseurl:"
   Associated Eye Physicians - Established group of physicians providing professional and personalized eye care for all ages using the latest
   laser technology to diagonse and treat people in the Northern New Jersey area - Elizabeth, Newark, Pompton Lakes, and Westfield.  
-url: "http://poojandpatel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://njeyedocs.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "poojandpatel/associated-eye-physicians"
 logo: "/assets/images/aep_logo.png"
 masthead_title: ""
