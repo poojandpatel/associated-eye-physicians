@@ -35,8 +35,7 @@ Please call us at [973-745-7000](tel:9737457000) for any general question.
       <option value="Elizabeth">Elizabeth</option>
       <option value="Clifton">Clifton</option>
       <option value="Newark">Newark</option>
-      <option value="audi">Audi</option>
-      <option value="Prompton Lakes">Prompton Lakes</option>
+      <option value="Pompton Lakes">Pompton Lakes</option>
       <option value="Westfield">Westfield</option>
     </select>
   </label>
@@ -64,7 +63,7 @@ Please call us at [973-745-7000](tel:9737457000) for any general question.
     </div>
     <div>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48177.21140706197!2d-74.288291!3d41.001716!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c31cb60aadb30b%3A0x10e379d1a0c1aeb1!2s505%20Wanaque%20Ave%2C%20Pompton%20Lakes%2C%20NJ%2007442!5e0!3m2!1sen!2sus!4v1685673651885!5m2!1sen!2sus" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        <p> Prompton Lakes, NJ </p>
+        <p> Pompton Lakes, NJ </p>
         <a href="tel:973-835-1222">973-835-1222</a>
     </div>
     <div>
