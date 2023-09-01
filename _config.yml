@@ -41,7 +41,29 @@ plugins:
 
 atom_feed:
   hide: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      classes: wide
+      author_profile: false
+      layout: single
   
+author:
+  name: Alessandra Bertolucci, MD, FAAO
+  bio: Eye Care Specialist
+  avatar: /assets/images/providers/alessandra_bertolucci.jpeg
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
