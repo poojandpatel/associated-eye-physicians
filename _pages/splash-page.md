@@ -53,12 +53,12 @@ feature_row_physicians:
   btn_label: "Read More"
   btn_class: "btn--primary" 
   url: "/providers/#kaitlyn-kolzow-reda-od"
-- image_path: /assets/images/providers/thomas_materna.png
-  alt: "Thomas Materna, MD, FAAO"
-  title: "Thomas Materna, MD, FAAO"
+- image_path: /assets/images/providers/stuart_lonsk.jpg
+  alt: "Stuart M. Lonsk, OD"
+  title: "Stuart M. Lonsk, OD"
   btn_label: "Read More"
   btn_class: "btn--primary" 
-  url: "/providers/#thomas-materna-md-faao"
+  url: "/providers/#stuart-m-lonsk-od"
 ---
 <link rel="icon" href="../assets/images/aep_favicon.ico" type="image/x-icon">
 {% include feature_row id="intro" type="justify" %}

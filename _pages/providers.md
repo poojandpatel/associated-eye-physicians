@@ -70,15 +70,25 @@ excerpt: "Learn more about our award-winning board certified family of physician
     </p>
 </div>
 
-## Thomas Materna, MD, FAAO
+## Stuart M. Lonsk, OD
+
+<div class="provider_info">
+    <img src="../assets/images/providers/stuart_lonsk.jpg" alt="Stuart M. Lonsk, OD" />
+    <p>
+    Dr. Lonsk attended Wilkes University in Wilkes Barre, PA, graduating with a major in Biology. He earned his Doctor of Optometry degree from the Pennsylvania College of Optometry. 
+        <br><br>    
+    He has been caring for patients in the Roselle optometric office, that his father opened in 1946, since his graduation in 1972. 
+    Dr. Lonsk served two terms on the board of directors of the New Jersey Society of Optometric Physicians. 
+    <br><br>
+    Starting in 2024, he joined Associated Eye Physicians where he provides comprehensive optometric services to patients of all ages at the Roselle and Elizabeth offices.Dr. Lonsk is dedicated to delivering the most current and compassionate care. He practices to the highest professional and ethical standards in every encounter.
+    </p>
+</div>
+
+## Thomas Materna, MD, FAAO (Emeritus)
 
 <div class="provider_info">
     <img src="../assets/images/providers/thomas_materna.png" alt="Thomas Materna, MD, FAAO" />
     <p>
-    Thomas Materna, MD, has been serving the communities of Newark and Elizabeth for a significant period of time. He obtained his Bachelor of Arts degree from the College of the Holy Cross in Worcester, Massachusetts.
-    <br><br>
-    Dr. Materna also served as a Medical Officer in the United States Navy. He graduated as a Medical Doctor from the State University of New York, Downstate Medical Center. Following his graduation, Dr. Materna completed a residency in Ophthalmology at the New York Eye and Ear Infirmary, where he served as an attending physician for an extended period.
-    <br><br>
-    With many years of experience in the practice of ophthalmology at the Associated Eye Physicians offices in Elizabeth and Newark, Dr. Materna takes pride in providing comprehensive eye care services in the vicinity of Trinitas Medical Center.
+    Thomas Materna, MD, FAAO after many years of serving the communities of Newark and Elizabeth service retired in December 2023.
     </p>
 </div>
