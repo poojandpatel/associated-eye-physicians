@@ -84,6 +84,19 @@ excerpt: "Learn more about our award-winning board certified family of physician
     </p>
 </div>
 
+## Chrishonda "Chris" Mccoy, MD
+
+<div class="provider_info">
+    <img src="../assets/images/providers/chrishonda_mccoy.jpg" alt="Chrishonda Mccoy, MD" />
+    <p>
+    Born in Florida, Dr. McCoy attended Florida A&M University and graduated with a bachelor’s degree in chemistry. She then matriculated to Johns Hopkins,  and earned her medical degree. Following graduation, she completed a residency in Ophthalmology at the world-renown Wills Eye Hospital in Philadelphia.
+    <br><br>
+    Dr. McCoy has now been practicing general ophthalmology for 17 years. She is excited to have joined Associated Eye Physicians, and to serve the broader East Orange community. She will be providing comprehensive ocular care, for pediatric and adult patients alike. Some of the common conditions she treats are: myopia and hyperopia, dry eye, glaucoma and diabetic retinopathy.
+    <br><br>
+    Dr. McCoy looks forward to this new chapter in her professional career and welcomes new patients.
+    </p>
+</div>
+
 ## Thomas Materna, MD, FAAO (Emeritus)
 
 <div class="provider_info">

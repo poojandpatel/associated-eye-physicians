@@ -15,8 +15,8 @@ header:
     - label: "Services Offered"
       url: /services/
 
-excerpt: "The Associated Eye Physicians practice has grown to encompass several offices, serving northern New Jersey: Clifton, Elizabeth, Newark, Pompton Lakes, and Westfield. All while maintaining the family-oriented ambiance that allows the team to work behind the scene to deliver personalized eye care."
-description: "Associated Eye Physicians is a full-service eye care practice in Northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield. We offer a wide range of services, including comprehensive eye exams, vision therapy, and contact lens fittings."
+excerpt: "The Associated Eye Physicians practice has grown to encompass several offices, serving northern New Jersey: Clifton, Elizabeth, Newark, Pompton Lakes, Westfield, and East Orange. All while maintaining the family-oriented ambiance that allows the team to work behind the scene to deliver personalized eye care."
+description: "Associated Eye Physicians is a full-service eye care practice in Northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, Westfield, and East Orange. We offer a wide range of services, including comprehensive eye exams, vision therapy, and contact lens fittings."
 
 intro: 
   - title: 'Our Mission'
@@ -59,6 +59,12 @@ feature_row_physicians:
   btn_label: "Read More"
   btn_class: "btn--primary" 
   url: "/providers/#stuart-m-lonsk-od"
+- image_path: /assets/images/providers/chrishonda_mccoy.jpg
+  alt: "Chrishonda 'Chris' Mccoy, MD"
+  title: "Chrishonda 'Chris' Mccoy, MD"
+  btn_label: "Read More"
+  btn_class: "btn--primary" 
+  url: "/providers/#chrishonda-chris-mccoy-md"
 ---
 <link rel="icon" href="../assets/images/aep_favicon.ico" type="image/x-icon">
 {% include feature_row id="intro" type="justify" %}

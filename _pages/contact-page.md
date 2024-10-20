@@ -5,8 +5,8 @@ header:
     overlay_color: "#F2A83B"
 permalink: /contact-page/
 phone_number: 973-745-7000
-excerpt: "Book an appointment today with Associated Eye Physicians serving northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield"
-description: "Book an appointment today with Associated Eye Physicians serving northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield"
+excerpt: "Book an appointment today with Associated Eye Physicians serving northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, Westfield, and East Orange"
+description: "Book an appointment today with Associated Eye Physicians serving northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, Westfield, and East Orange"
 ---
 ## Send us a Message
 Our hours are Monday to Friday 9:00 AM to 5:00 PM and Saturday by appointment only.  
@@ -37,6 +37,7 @@ Please call us at [973-745-7000](tel:9737457000) for any general question.
       <option value="Newark">Newark</option>
       <option value="Pompton Lakes">Pompton Lakes</option>
       <option value="Westfield">Westfield</option>
+      <option value="East Orange">East Orange</option>
     </select>
   </label>
   <!-- your other form fields go here -->
@@ -70,5 +71,10 @@ Please call us at [973-745-7000](tel:9737457000) for any general question.
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d96839.54146355084!2d-74.344472!3d40.668776!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3b1a45b7678b5%3A0xe80f76b89a530952!2s138%20S%20Euclid%20Ave%2C%20Westfield%2C%20NJ%2007090!5e0!3m2!1sen!2sus!4v1685673665774!5m2!1sen!2sus" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <p> Westfield, NJ </p>
         <a href="tel:908-232-0909">908-232-0909</a>
+    </div>
+        <div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.4289789109157!2d-74.21251302347478!3d40.752588735129095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c254a93337d16f%3A0x5215c7cde0f1c45e!2s185%20Central%20Ave%20%23%20509%2C%20East%20Orange%2C%20NJ%2007018!5e0!3m2!1sen!2sus!4v1729386241906!5m2!1sen!2sus" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <p> East Orange, NJ </p>
+        <a href="tel:973-673-4620">973-673-4620</a>
     </div>
 </div>
