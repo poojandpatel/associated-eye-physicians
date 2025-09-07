@@ -6,7 +6,10 @@ header:
 permalink: /locations/newark/
 excerpt: "Advanced ophthalmology services in Newark, NJ. Cataract surgery, premium intraocular lenses, and comprehensive eye care."
 description: "Visit Associated Eye Physicians in Newark, NJ for advanced ophthalmology services including cataract surgery, premium lenses, and comprehensive eye care."
+location_key: "newark"
 ---
+
+{% include location-schema.html %}
 
 # Newark Office
 

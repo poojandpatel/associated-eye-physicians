@@ -8,6 +8,8 @@ excerpt: "Find Associated Eye Physicians locations in northern New Jersey - Eliz
 description: "Visit one of our Associated Eye Physicians locations in northern New Jersey. Comprehensive eye care services in Elizabeth, Clifton, Newark, Pompton Lakes, and Westfield."
 ---
 
+{% include structured-data.html %}
+
 # Our Locations
 
 Associated Eye Physicians serves northern New Jersey with five convenient locations offering comprehensive eye care services. Each office is staffed by experienced ophthalmologists and optometrists providing personalized care for all ages.

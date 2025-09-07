@@ -6,7 +6,10 @@ header:
 permalink: /locations/elizabeth/
 excerpt: "Comprehensive eye care services in Elizabeth, NJ. Expert ophthalmologists and optometrists providing cataract surgery, glaucoma treatment, and more."
 description: "Visit Associated Eye Physicians in Elizabeth, NJ for comprehensive eye care. Our experienced team offers cataract surgery, glaucoma treatment, and personalized vision care."
+location_key: "elizabeth"
 ---
+
+{% include location-schema.html %}
 
 # Elizabeth Office
 

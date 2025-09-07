@@ -6,7 +6,10 @@ header:
 permalink: /locations/clifton/
 excerpt: "Expert optometry services in Clifton, NJ. Comprehensive eye exams, contact lenses, and personalized vision care for all ages."
 description: "Visit Associated Eye Physicians in Clifton, NJ for comprehensive optometry services. Our experienced optometrists provide eye exams, contact lenses, and vision care."
+location_key: "clifton"
 ---
+
+{% include location-schema.html %}
 
 # Clifton Office
 

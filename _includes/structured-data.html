@@ -1,0 +1,209 @@
+{% comment %}Reusable templates for structured data generation{% endcomment %}
+
+{% comment %}Organization schema template{% endcomment %}
+{% capture organization_schema %}
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Associated Eye Physicians",
+  "url": "{{ site.url }}",
+  "logo": "{{ site.url }}/assets/images/aep_logo.png",
+  "description": "Comprehensive eye care practice with multiple locations across New Jersey, providing ophthalmology and optometry services including cataract surgery, glaucoma treatment, and pediatric eye care.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-908-355-0478",
+    "contactType": "customer service",
+    "availableLanguage": "English"
+  },
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "240 Williamson St",
+      "addressLocality": "Elizabeth",
+      "addressRegion": "NJ",
+      "postalCode": "07202",
+      "addressCountry": "US",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.6591",
+        "longitude": "-74.2174"
+      }
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "1033 Clifton Ave STE 107",
+      "addressLocality": "Clifton",
+      "addressRegion": "NJ",
+      "postalCode": "07013",
+      "addressCountry": "US",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.8596",
+        "longitude": "-74.1695"
+      }
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "741 Broadway",
+      "addressLocality": "Newark",
+      "addressRegion": "NJ",
+      "postalCode": "07104",
+      "addressCountry": "US",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.7285",
+        "longitude": "-74.1634"
+      }
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "505 Wanaque Ave",
+      "addressLocality": "Pompton Lakes",
+      "addressRegion": "NJ",
+      "postalCode": "07442",
+      "addressCountry": "US",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "41.0017",
+        "longitude": "-74.2883"
+      }
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "138 S Euclid Ave",
+      "addressLocality": "Westfield",
+      "addressRegion": "NJ",
+      "postalCode": "07090",
+      "addressCountry": "US",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.6688",
+        "longitude": "-74.3445"
+      }
+    }
+  ],
+  "medicalSpecialty": ["Ophthalmology", "Optometry"],
+  "founder": {
+    "@type": "Person",
+    "name": "Alessandra Bertolucci, MD, FAAO"
+  },
+  "sameAs": [
+    "{{ site.url }}/providers"
+  ],
+  "priceRange": "$$"
+}
+{% endcapture %}
+
+{% comment %}Location collection schema template for locations index page{% endcomment %}
+{% capture location_collection_schema %}
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Associated Eye Physicians Locations",
+  "description": "Find our eye care offices across New Jersey",
+  "numberOfItems": 5,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": ["MedicalBusiness", "LocalBusiness"],
+        "name": "Associated Eye Physicians - Elizabeth Office",
+        "url": "{{ site.url }}/locations/elizabeth/",
+        "telephone": "+1-908-355-0478",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "240 Williamson St",
+          "addressLocality": "Elizabeth",
+          "addressRegion": "NJ",
+          "postalCode": "07202",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": ["MedicalBusiness", "LocalBusiness"],
+        "name": "Associated Eye Physicians - Clifton Office",
+        "url": "{{ site.url }}/locations/clifton/",
+        "telephone": "+1-973-472-6405",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1033 Clifton Ave STE 107",
+          "addressLocality": "Clifton",
+          "addressRegion": "NJ",
+          "postalCode": "07013",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": ["MedicalBusiness", "LocalBusiness"],
+        "name": "Associated Eye Physicians - Newark Office",
+        "url": "{{ site.url }}/locations/newark/",
+        "telephone": "+1-973-589-0104",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "741 Broadway",
+          "addressLocality": "Newark",
+          "addressRegion": "NJ",
+          "postalCode": "07104",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": ["MedicalBusiness", "LocalBusiness"],
+        "name": "Associated Eye Physicians - Pompton Lakes Office",
+        "url": "{{ site.url }}/locations/pompton-lakes/",
+        "telephone": "+1-973-835-1222",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "505 Wanaque Ave",
+          "addressLocality": "Pompton Lakes",
+          "addressRegion": "NJ",
+          "postalCode": "07442",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": ["MedicalBusiness", "LocalBusiness"],
+        "name": "Associated Eye Physicians - Westfield Office",
+        "url": "{{ site.url }}/locations/westfield/",
+        "telephone": "+1-908-232-0909",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "138 S Euclid Ave",
+          "addressLocality": "Westfield",
+          "addressRegion": "NJ",
+          "postalCode": "07090",
+          "addressCountry": "US"
+        }
+      }
+    }
+  ]
+}
+{% endcapture %}
+
+{% comment %}Output the captured schemas{% endcomment %}
+<script type="application/ld+json">
+{{ organization_schema | strip_newlines }}
+</script>
+
+{% if page.layout == 'location' %}
+<script type="application/ld+json">
+{{ location_collection_schema | strip_newlines }}
+</script>
+{% endif %}

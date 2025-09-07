@@ -6,7 +6,10 @@ header:
 permalink: /locations/westfield/
 excerpt: "General ophthalmology in Westfield, NJ. Glaucoma treatment, diabetic retinopathy care, and comprehensive eye services."
 description: "Visit Associated Eye Physicians in Westfield, NJ for general ophthalmology services including glaucoma treatment, diabetic eye care, and pediatric ophthalmology."
+location_key: "westfield"
 ---
+
+{% include location-schema.html %}
 
 # Westfield Office
 

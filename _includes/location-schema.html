@@ -1,0 +1,50 @@
+{% comment %}Location-specific MedicalBusiness schema template{% endcomment %}
+{% assign location_key = page.location_key | default: page.slug %}
+{% assign location = site.data.locations[location_key] %}
+
+{% if location %}
+{% capture location_schema %}
+{
+  "@context": "https://schema.org",
+  "@type": ["MedicalBusiness", "LocalBusiness"],
+  "name": "{{ location.name }}",
+  "description": "Professional eye care services in {{ location.address.city }}, NJ. {{ location.services | join: ', ' }}.",
+  "url": "{{ site.url }}{{ page.url }}",
+  "telephone": "+1-{{ location.phone | remove: '-' | remove: '(' | remove: ')' | remove: ' ' }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ location.address.street }}",
+    "addressLocality": "{{ location.address.city }}",
+    "addressRegion": "{{ location.address.state }}",
+    "postalCode": "{{ location.address.zip }}",
+    "addressCountry": "{{ location.address.country }}"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{{ location.geo.latitude }}",
+    "longitude": "{{ location.geo.longitude }}"
+  },
+  "openingHours": {{ location.hours | jsonify }},
+  "medicalSpecialty": {{ location.medical_specialty | jsonify }},
+  "availableService": [
+    {% for service in location.available_service %}
+    {
+      "@type": "{{ service.type }}",
+      "name": "{{ service.name }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "priceRange": "$$",
+  "paymentAccepted": ["Cash", "Credit Card", "Insurance"],
+  "currenciesAccepted": "USD",
+  "sameAs": [
+    "{{ site.url }}/locations",
+    "{{ site.url }}/providers"
+  ]
+}
+{% endcapture %}
+
+<script type="application/ld+json">
+{{ location_schema | strip_newlines }}
+</script>
+{% endif %}

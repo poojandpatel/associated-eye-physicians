@@ -6,7 +6,10 @@ header:
 permalink: /locations/pompton-lakes/
 excerpt: "Family eye care in Pompton Lakes, NJ. Pediatric and adult optometry services, contact lenses, and comprehensive eye exams."
 description: "Visit Associated Eye Physicians in Pompton Lakes, NJ for family eye care including pediatric services, contact lenses, and comprehensive optometry."
+location_key: "pompton_lakes"
 ---
+
+{% include location-schema.html %}
 
 # Pompton Lakes Office
 

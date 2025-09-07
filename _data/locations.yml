@@ -1,0 +1,166 @@
+elizabeth:
+  name: "Associated Eye Physicians - Elizabeth Office"
+  address:
+    street: "240 Williamson St"
+    city: "Elizabeth"
+    state: "NJ"
+    zip: "07202"
+    country: "US"
+  phone: "908-355-0478"
+  geo:
+    latitude: "40.6591"
+    longitude: "-74.2174"
+  hours:
+    - "Mo-Fr 09:00-17:00"
+    - "Sa 09:00-17:00"
+  providers:
+    - "Alessandra Bertolucci, MD, FAAO"
+    - "Stuart M. Lonsk, OD"
+    - "Thomas Materna, MD, FAAO (Emeritus)"
+  services:
+    - "Comprehensive eye care"
+    - "eye check up"
+    - "Cataract surgery"
+    - "Glaucoma treatment"
+  medical_specialty:
+    - "Ophthalmology"
+    - "Optometry"
+  available_service:
+    - name: "Cataract Surgery"
+      type: "MedicalProcedure"
+    - name: "Glaucoma Treatment"
+      type: "MedicalProcedure"
+    - name: "Comprehensive Eye Care"
+      type: "MedicalProcedure"
+
+clifton:
+  name: "Associated Eye Physicians - Clifton Office"
+  address:
+    street: "1033 Clifton Ave STE 107"
+    city: "Clifton"
+    state: "NJ"
+    zip: "07013"
+    country: "US"
+  phone: "973-472-6405"
+  geo:
+    latitude: "40.8596"
+    longitude: "-74.1695"
+  hours:
+    - "Mo-Fr 09:00-17:00"
+    - "Sa 09:00-17:00"
+  providers:
+    - "Jennifer A Vicente, OD FAAO"
+    - "Kaitlyn Kolzow Reda, OD"
+  services:
+    - "Optometry services"
+    - "Contact lenses"
+    - "Comprehensive eye exams"
+  medical_specialty:
+    - "Optometry"
+  available_service:
+    - name: "Contact Lens Fitting"
+      type: "MedicalProcedure"
+    - name: "Comprehensive Eye Exam"
+      type: "MedicalProcedure"
+    - name: "Optometry Services"
+      type: "MedicalProcedure"
+
+newark:
+  name: "Associated Eye Physicians - Newark Office"
+  address:
+    street: "741 Broadway"
+    city: "Newark"
+    state: "NJ"
+    zip: "07104"
+    country: "US"
+  phone: "973-589-0104"
+  geo:
+    latitude: "40.7285"
+    longitude: "-74.1634"
+  hours:
+    - "Mo-Fr 09:00-17:00"
+    - "Sa 09:00-17:00"
+  providers:
+    - "Michael Landolfi, DO"
+    - "Albert Zazzali, MD, FAAO"
+  services:
+    - "Cataract surgery"
+    - "Premium intraocular lenses"
+    - "Comprehensive ophthalmology"
+  medical_specialty:
+    - "Ophthalmology"
+  available_service:
+    - name: "Cataract Surgery"
+      type: "MedicalProcedure"
+    - name: "Premium Intraocular Lenses"
+      type: "MedicalProcedure"
+    - name: "Comprehensive Ophthalmology"
+      type: "MedicalProcedure"
+
+pompton_lakes:
+  name: "Associated Eye Physicians - Pompton Lakes Office"
+  address:
+    street: "505 Wanaque Ave"
+    city: "Pompton Lakes"
+    state: "NJ"
+    zip: "07442"
+    country: "US"
+  phone: "973-835-1222"
+  geo:
+    latitude: "41.0017"
+    longitude: "-74.2883"
+  hours:
+    - "Mo-Fr 09:00-17:00"
+    - "Sa 09:00-17:00"
+  providers:
+    - "Jennifer A Vicente, OD FAAO"
+    - "Kaitlyn Kolzow Reda, OD"
+  services:
+    - "Pediatric and adult eye care"
+    - "Contact lenses"
+    - "Comprehensive optometry"
+  medical_specialty:
+    - "Optometry"
+    - "Pediatric Ophthalmology"
+  available_service:
+    - name: "Pediatric Eye Care"
+      type: "MedicalProcedure"
+    - name: "Contact Lens Fitting"
+      type: "MedicalProcedure"
+    - name: "Comprehensive Optometry"
+      type: "MedicalProcedure"
+
+westfield:
+  name: "Associated Eye Physicians - Westfield Office"
+  address:
+    street: "138 S Euclid Ave"
+    city: "Westfield"
+    state: "NJ"
+    zip: "07090"
+    country: "US"
+  phone: "908-232-0909"
+  geo:
+    latitude: "40.6688"
+    longitude: "-74.3445"
+  hours:
+    - "Mo-Fr 09:00-17:00"
+    - "Sa 09:00-17:00"
+  providers:
+    - "Chrishonda \"Chris\" Mccoy, MD"
+  services:
+    - "General ophthalmology"
+    - "Glaucoma"
+    - "Diabetic retinopathy"
+    - "Pediatric eye care"
+  medical_specialty:
+    - "Ophthalmology"
+    - "Pediatric Ophthalmology"
+  available_service:
+    - name: "Glaucoma Treatment"
+      type: "MedicalProcedure"
+    - name: "Diabetic Retinopathy Treatment"
+      type: "MedicalProcedure"
+    - name: "Pediatric Eye Care"
+      type: "MedicalProcedure"
+    - name: "General Ophthalmology"
+      type: "MedicalProcedure"
