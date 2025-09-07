@@ -3,6 +3,8 @@ main:
     url: /providers/
   - title: "Services"
     url: /services/
+  - title: "Locations"
+    url: /locations/
   - title: "Contact Us"
     url: /contact-page/
   - title: "Blog"
