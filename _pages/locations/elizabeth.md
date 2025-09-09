@@ -23,6 +23,7 @@ Located in the heart of Union County, our Elizabeth office provides comprehensiv
 ## Our Providers
 - **Alessandra Bertolucci, MD, FAAO** - Comprehensive and retinal eye care specialist
 - **Stuart M. Lonsk, OD** - Comprehensive optometric services
+- **Albert Zazzali, MD, FAAO** - Comprehensive ophthalmology and surgical specialist
 
 ## Services Offered
 - Comprehensive eye examinations

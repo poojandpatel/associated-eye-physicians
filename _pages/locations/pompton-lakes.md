@@ -21,7 +21,9 @@ Serving the Morris and Passaic County communities, our Pompton Lakes office prov
 **Hours:** Monday to Friday 9:00 AM to 5:00 PM, Saturday by appointment  
 
 ## Our Providers
-- **Jennifer A Vicente, OD FAAO** - Ocular disease specialist and contact lens expert
+- **Alessandra Bertolucci, MD, FAAO** - Comprehensive and retinal eye care specialist
+- **Chrishonda "Chris" Mccoy, MD** - General ophthalmologist specializing in glaucoma, diabetic retinopathy, and pediatric eye care
+- **Michael Landolfi, DO** - Cataract surgery specialist and premium intraocular lens expert
 - **Kaitlyn Kolzow Reda, OD** - Primary care and ocular disease specialist
 
 ## Services Offered

@@ -21,9 +21,9 @@ Located in central Newark, our office provides comprehensive ophthalmology servi
 **Hours:** Monday to Friday 9:00 AM to 5:00 PM, Saturday by appointment  
 
 ## Our Providers
-- **Michael Landolfi, DO** - Cataract surgery specialist and premium intraocular lens expert
+- **Alessandra Bertolucci, MD, FAAO** - Comprehensive and retinal eye care specialist
 - **Albert Zazzali, MD, FAAO** - Comprehensive ophthalmology and surgical specialist
-- **Jennifer A Vicente, OD FAAO** - Ocular disease specialist and contact lens expert
+- **Stuart M. Lonsk, OD** - Comprehensive optometric services
 
 ## Services Offered
 - Cataract surgery with premium intraocular lenses

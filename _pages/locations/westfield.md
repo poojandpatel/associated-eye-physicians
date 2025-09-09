@@ -21,7 +21,9 @@ Located in downtown Westfield, our office provides comprehensive ophthalmology s
 **Hours:** Monday to Friday 9:00 AM to 5:00 PM, Saturday by appointment  
 
 ## Our Providers
+- **Alessandra Bertolucci, MD, FAAO** - Comprehensive and retinal eye care specialist
 - **Chrishonda "Chris" Mccoy, MD** - General ophthalmologist specializing in glaucoma, diabetic retinopathy, and pediatric eye care
+- **Stuart M. Lonsk, OD** - Comprehensive optometric services
 
 ## Services Offered
 - General ophthalmology
