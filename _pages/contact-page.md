@@ -12,7 +12,7 @@ description: "Book an appointment today with Associated Eye Physicians serving n
 Our hours are Monday to Friday 9:00 AM to 5:00 PM and Saturday by appointment only.  
 Please call us at [973-745-7000](tel:9737457000) for any general question. 
 <div class="contact-form">
-<form action="https://formspree.io/f/mdovrwdl" method="POST">
+<form id="contact-form" action="https://formspree.io/f/mdovrwdl" method="POST">
   <label>
     Your name:
     <input type="text" name="name">
@@ -29,7 +29,7 @@ Please call us at [973-745-7000](tel:9737457000) for any general question.
     Your message:
     <textarea name="message"></textarea>
   </label>
-  <label> 
+  <label>
   Preferred Location:
     <select name="clinic_location" >
       <option value="Elizabeth">Elizabeth</option>
@@ -71,3 +71,46 @@ Please call us at [973-745-7000](tel:9737457000) for any general question.
         <p><a href="/locations/westfield/">Westfield, NJ</a></p>
         <a href="tel:908-232-0909">908-232-0909</a>
 </div>
+
+<script>
+document.getElementById('contact-form').addEventListener('submit', function(e) {
+    e.preventDefault(); // Prevent default form submission
+
+    const form = this;
+    const submitButton = form.querySelector('button[type="submit"]');
+    const originalText = submitButton.textContent;
+
+    // Show loading state
+    submitButton.textContent = 'Sending...';
+    submitButton.disabled = true;
+
+    // Get form data
+    const formData = new FormData(form);
+
+    // Submit to Formspree
+    fetch('https://formspree.io/f/mdovrwdl', {
+        method: 'POST',
+        body: formData,
+        headers: {
+            'Accept': 'application/json'
+        }
+    })
+    .then(response => {
+        if (response.ok) {
+            // Success - redirect to thank you page
+            window.location.href = '/thank-you/';
+        } else {
+            // Formspree error
+            throw new Error('Form submission failed');
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        // Show error message
+        alert('Sorry, there was an error sending your message. Please try again or call us directly.');
+        // Reset button
+        submitButton.textContent = originalText;
+        submitButton.disabled = false;
+    });
+});
+</script>
