@@ -20,7 +20,7 @@ contacts_and_eyeglasses:
   <div class="faq">
     <h2> What Are the Different Types of Contacts? </h2>
     <p> 
-    At Associated Eye Physicians, you’ll find a large variety of contact lenses to sample before you buy. Dr. Bertolucci and the experienced team understand that when it comes to contacts, it’s a very personal choice, and they want to help you find the best fit. Contacts lenses should correct your vision based on your individual prescription and also work well with your lifestyle, so the team offers different types of lenses for you to sample, such as:
+    At Associated Eye Physicians, you’ll find a large variety of contact lenses to sample before you buy. Dr. Bertolucci and the experienced team understand that when it comes to contacts, it’s a very personal choice, and they want to help you find the best fit. Contact lenses should correct your vision based on your individual prescription and also work well with your lifestyle, so the team offers different types of lenses for you to sample, such as:
     <ul>
       <li> Extended-wear</li>
       <li> Daily, weekly, or monthly disposables </li>

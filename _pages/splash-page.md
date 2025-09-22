@@ -16,7 +16,7 @@ header:
       url: /services/
 
 excerpt: "The Associated Eye Physicians practice has grown to encompass several offices, serving northern New Jersey: Clifton, Elizabeth, Newark, Pompton Lakes, and Westfield. All while maintaining the family-oriented ambiance that allows the team to work behind the scene to deliver personalized eye care."
-description: "Associated Eye Physicians is a full-service eye care practice in Northern New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield. We offer a wide range of services, including comprehensive eye exams, vision therapy, and contact lens fittings."
+description: "Associated Eye Physicians is a full-service eye care practice in Northern New Jersey - Clifton, Elizabeth, Newark, Pompton Lakes, and Westfield. We offer a wide range of services, including comprehensive eye exams, vision therapy, and contact lens fittings."
 
 intro: 
   - title: 'Our Mission'

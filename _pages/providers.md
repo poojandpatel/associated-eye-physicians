@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /providers/
 description: "Learn more about our board certified family of physicians serving the northern New Jersey area"
-excerpt: "Learn more about our award-winning board certified family of physicians serving New Jersey - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield"
+excerpt: "Learn more about our award-winning board certified family of physicians serving New Jersey - Clifton, Elizabeth, Newark, Pompton Lakes, and Westfield"
 ---
 ## Alessandra Bertolucci, MD, FAAO
 <div class="provider_info">
@@ -55,7 +55,7 @@ excerpt: "Learn more about our award-winning board certified family of physician
     <p>
     Dr. Jennifer Vicente, OD, FAAO, graduated from The College of New Jersey in Ewing, NJ, with a Bachelor of Science degree. She earned her Doctor of Optometry degree at the New England College of Optometry in Boston, MA. She furthered her training by completing a residency in ocular disease and a fellowship in contact lenses. In addition to English, she is fluent in Portuguese and Spanish.
     <br><br>
-    Dr. Vicente is a valuable addition to the team, bringing her professional expertise and high ethical standards. She holds a valid license to practice optometry from the state board in New Jersey and sees patients at the Clifton, Newark, and Pompton Lakes offices.
+    Dr. Vicente is a valuable addition to the team, bringing her professional expertise and high ethical standards. She holds a valid license to practice optometry from the state board in New Jersey and sees patients at the Clifton and Newark office.
     </p>
 </div>
 
@@ -77,10 +77,10 @@ excerpt: "Learn more about our award-winning board certified family of physician
     <p>
     Dr. Lonsk attended Wilkes University in Wilkes Barre, PA, graduating with a major in Biology. He earned his Doctor of Optometry degree from the Pennsylvania College of Optometry. 
         <br><br>    
-    He has been caring for patients in the Roselle optometric office, that his father opened in 1946, since his graduation in 1972. 
+    He has been caring for patients in the optometric practice that his father opened in 1946 since his graduation in 1972. 
     Dr. Lonsk served two terms on the board of directors of the New Jersey Society of Optometric Physicians. 
     <br><br>
-    Starting in 2024, he joined Associated Eye Physicians where he provides comprehensive optometric services to patients of all ages at the Roselle and Elizabeth offices.Dr. Lonsk is dedicated to delivering the most current and compassionate care. He practices to the highest professional and ethical standards in every encounter.
+    Starting in 2024, he joined Associated Eye Physicians where he provides comprehensive optometric services to patients of all ages at the Westfield and Elizabeth offices.Dr. Lonsk is dedicated to delivering the most current and compassionate care. He practices to the highest professional and ethical standards in every encounter.
     </p>
 </div>
 

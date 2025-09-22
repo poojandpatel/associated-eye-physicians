@@ -47,7 +47,15 @@ description: "Early detection of Macular Degeneration is crucial to minimize its
     <p>
     There are two types of macular degeneration — dry AMD and wet AMD — and the team at Associated Eye Physicians offers state-of-the-art treatment. 
     <br> <br>
-    Dry AMD is the most common form of the disease, with about 80% of adults who have AMD experiencing this type. Your macula thins out with age, and you develop tiny clumps of protein on your retina. hile there is no cure for dry AMD, Dr. Bertolucci and the team help you take steps to minimize vision loss and slow the progression of the disease through lifestyle changes, such as eating a healthier diet and quitting smoking.
+    Dry AMD is the most common form of the disease, with about 80% of adults who have AMD experiencing this type. Your macula thins out with age, and you develop tiny clumps of protein on your retina. While there is no cure for dry AMD, Dr. Bertolucci and the team help you take steps to minimize vision loss and slow the progression of the disease through lifestyle changes, such as eating a healthier diet and quitting smoking.
+    <br> <br>
+    For dry macular degeneration that progresses to cause atrophic changes, there are new intravitreal injections aimed at decreasing the progression of the disease. Please inquire about their use.
+
+    The office of Associated Eye Physicians is at the forefront of treating dry macular degeneration, offering PhotoBioModulation: a new treatment authorized by the FDA in November 2024. It consists of a series of 9 sessions of light treatment with a specific wavelength and timing, delivered to undilated pupils, treating each eye individually. 
+    <br> <br>
+    This treatment has been in use in the UK for a few years and is aimed at decreasing the progression of the disease, with some improvement reported in a few cases. The treatment has been used extensively with no significant negative side effects reported. The treatment is currently not covered by insurance. Please inquire about its use.
+
+    
     <br> <br>
     For wet AMD, the team at Associated Eye Physicians offers intravitreal injections to prevent the growth of new blood vessels that leak blood and fluid into your eye — a major characteristic of wet AMD.
     </p>

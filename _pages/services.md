@@ -8,7 +8,7 @@ header:
       url: /contact-page/
 permalink: /services/
 excerpt: "Learn more about how Associated Eye Physicians serving northern New Jersey can help you keep your eyes and vision healthy"
-description: "The Associated Eye Physicians practice offers all inclusive eye-care at our New Jersey Locations - Clifton, Elizabeth, Newark, Pompton lakes, and Westfield"
+description: "The Associated Eye Physicians practice offers all inclusive eye-care at our New Jersey Locations - Clifton, Elizabeth, Newark, Pompton Lakes, and Westfield"
 feature_row_services:
 - image_path: /assets/images/services/macular_degeneration.png
   alt: "Macular Eye Disease logo"
