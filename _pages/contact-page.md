@@ -73,11 +73,39 @@ Please call us at [973-745-7000](tel:9737457000) for any general question.
 </div>
 
 <script>
-document.getElementById('contact-form').addEventListener('submit', function(e) {
+const form = document.getElementById('contact-form');
+const nameInput = form.querySelector('input[name="name"]');
+const phoneInput = form.querySelector('input[name="phone"]');
+const emailInput = form.querySelector('input[name="email"]');
+const submitButton = form.querySelector('button[type="submit"]');
+
+// Email validation regex
+const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+// Phone validation regex (US format)
+const phoneRegex = /^[\+]?[1]?[\s\-\.]?[\(]?[0-9]{3}[\)]?[\s\-\.]?[0-9]{3}[\s\-\.]?[0-9]{4}$/;
+
+// Initially disable submit button
+submitButton.disabled = true;
+
+// Validation function
+function validateForm() {
+    const nameValid = nameInput.value.trim() !== '';
+    const emailValid = emailRegex.test(emailInput.value.trim());
+    const phoneValid = phoneRegex.test(phoneInput.value.trim());
+    submitButton.disabled = !(nameValid && (emailValid || phoneValid));
+}
+
+// Add input event listeners for real-time validation
+nameInput.addEventListener('input', validateForm);
+phoneInput.addEventListener('input', validateForm);
+emailInput.addEventListener('input', validateForm);
+
+// Form submission handler
+form.addEventListener('submit', function(e) {
     e.preventDefault(); // Prevent default form submission
 
-    const form = this;
-    const submitButton = form.querySelector('button[type="submit"]');
+    const submitButton = this.querySelector('button[type="submit"]');
     const originalText = submitButton.textContent;
 
     // Show loading state
@@ -85,7 +113,7 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
     submitButton.disabled = true;
 
     // Get form data
-    const formData = new FormData(form);
+    const formData = new FormData(this);
 
     // Submit to Formspree
     fetch('https://formspree.io/f/mdovrwdl', {
@@ -97,8 +125,17 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
     })
     .then(response => {
         if (response.ok) {
-            // Success - redirect to thank you page
-            window.location.href = '/thank-you/';
+            // Success - redirect to thank you page with submitted data
+            let url = '/thank-you/?name=' + encodeURIComponent(nameInput.value.trim());
+            const emailValid = emailRegex.test(emailInput.value.trim());
+            const phoneValid = phoneRegex.test(phoneInput.value.trim());
+            if (emailValid) {
+                url += '&email=' + encodeURIComponent(emailInput.value.trim());
+            }
+            if (phoneValid) {
+                url += '&phone=' + encodeURIComponent(phoneInput.value.trim());
+            }
+            window.location.href = url;
         } else {
             // Formspree error
             throw new Error('Form submission failed');
@@ -111,6 +148,8 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
         // Reset button
         submitButton.textContent = originalText;
         submitButton.disabled = false;
+        // Re-validate after error to restore disabled state if needed
+        validateForm();
     });
 });
 </script>

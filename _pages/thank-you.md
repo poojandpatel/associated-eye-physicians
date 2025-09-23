@@ -8,9 +8,7 @@ excerpt: "Thank you for contacting Associated Eye Physicians. We've received you
 description: "Thank you for reaching out to Associated Eye Physicians. Your message has been received and our team will respond promptly."
 ---
 
-# Thank You for Your Message
-
-We've received your message and appreciate you reaching out to Associated Eye Physicians. Our team will review your inquiry and get back to you within 1-2 business days.
+<div id="personalized-message"></div>
 
 ## What Happens Next?
 
@@ -39,3 +37,39 @@ While you wait for our response, learn more about our comprehensive eye care ser
 - [Contact Lenses & Eyeglasses](/contacts-eyeglasses/)
 
 [← Back to Contact Page](/contact-page/) | [View Our Locations](/locations/)
+
+<script>
+// Get URL parameters
+function getUrlParameter(name) {
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+    const results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+}
+
+// Display personalized message
+const name = getUrlParameter('name');
+const email = getUrlParameter('email');
+const phone = getUrlParameter('phone');
+
+if (name && (email || phone)) {
+    const personalizedDiv = document.getElementById('personalized-message');
+    if (personalizedDiv) {
+        let contactInfo = '';
+        if (email) {
+            contactInfo += `at your email <strong>${email}</strong>`;
+        }
+        if (phone) {
+            if (contactInfo) contactInfo += ' and ';
+            contactInfo += `at your phone <strong>${phone}</strong>`;
+        }
+
+        personalizedDiv.innerHTML = `
+            <div style="background-color: #f8f9fa; padding: 1rem; border-radius: 5px; margin-bottom: 2rem; border-left: 4px solid #F2A83B;">
+                <p style="margin: 0; font-weight: bold;">Thank you for your message, ${name}!</p>
+                <p style="margin: 0.5rem 0 0 0;">We will get back to you as soon as we can ${contactInfo}.</p>
+            </div>
+        `;
+    }
+}
+</script>
