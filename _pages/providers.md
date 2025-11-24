@@ -48,17 +48,6 @@ excerpt: "Learn more about our award-winning board certified family of physician
     </p>
 </div>
 
-## Jennifer A Vicente, OD FAAO
-
-<div class="provider_info">
-    <img src="../assets/images/providers/jennifer_vicente.jpeg" alt="Jennifer A Vicente, OD FAAO"/>
-    <p>
-    Dr. Jennifer Vicente, OD, FAAO, graduated from The College of New Jersey in Ewing, NJ, with a Bachelor of Science degree. She earned her Doctor of Optometry degree at the New England College of Optometry in Boston, MA. She furthered her training by completing a residency in ocular disease and a fellowship in contact lenses. In addition to English, she is fluent in Portuguese and Spanish.
-    <br><br>
-    Dr. Vicente is a valuable addition to the team, bringing her professional expertise and high ethical standards. She holds a valid license to practice optometry from the state board in New Jersey and sees patients at the Clifton and Newark office.
-    </p>
-</div>
-
 ## Kaitlyn Kolzow Reda, OD
 
 <div class="provider_info">

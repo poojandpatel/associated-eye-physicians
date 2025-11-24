@@ -28,7 +28,7 @@ Associated Eye Physicians serves northern New Jersey with five convenient locati
 
 **Address:** 1033 Clifton Ave STE 107, Clifton, NJ 07013  
 **Phone:** [973-472-6405](tel:973-472-6405)  
-**Providers:** Alessandra Bertolucci, Chrishonda "Chris" Mccoy, Michael Landolfi, Kaitlyn Kolzow Reda and Jennifer A Vicente
+**Providers:** Alessandra Bertolucci, Chrishonda "Chris" Mccoy, Michael Landolfi, and Kaitlyn Kolzow Reda, OD
 **Services:** Optometry services, contact lenses, comprehensive eye exams  
 **Hours:** Monday to Friday 9:00 AM to 5:00 PM, Saturday by appointment  
 
@@ -38,7 +38,7 @@ Associated Eye Physicians serves northern New Jersey with five convenient locati
 
 **Address:** Associated Eye Physicians, Newark, NJ  
 **Phone:** [973-589-0104](tel:973-589-0104)  
-**Providers:** Alessandra Bertolucci, Jennifer A Vicente, and Albert Zazzali
+**Providers:** Michael Landolfi, DO and Albert Zazzali, MD, FAAO
 **Services:** Cataract surgery, premium intraocular lenses, comprehensive ophthalmology  
 **Hours:** Monday to Friday 9:00 AM to 5:00 PM, Saturday by appointment  
 

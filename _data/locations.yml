@@ -49,7 +49,6 @@ clifton:
     - "Mo-Fr 09:00-17:00"
     - "Sa 09:00-17:00"
   providers:
-    - "Jennifer A Vicente, OD FAAO"
     - "Kaitlyn Kolzow Reda, OD"
   services:
     - "Optometry services"
@@ -113,7 +112,6 @@ pompton_lakes:
     - "Mo-Fr 09:00-17:00"
     - "Sa 09:00-17:00"
   providers:
-    - "Jennifer A Vicente, OD FAAO"
     - "Kaitlyn Kolzow Reda, OD"
   services:
     - "Pediatric and adult eye care"

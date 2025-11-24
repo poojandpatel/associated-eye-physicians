@@ -41,12 +41,7 @@ feature_row_physicians:
   btn_label: "Read More"
   btn_class: "btn--primary" 
   url: "/providers/#albert-zazzali-md-faao"
-- image_path: /assets/images/providers/jennifer_vicente.jpeg
-  alt: "Jennifer A Vicente, OD FAAO"
-  title: "Jennifer A Vicente, OD FAAO"
-  btn_label: "Read More"
-  btn_class: "btn--primary" 
-  url: "/providers/#jennifer-a-vicente-od-faao"
+
 - image_path: /assets/images/providers/kaitlyn_kolzow_reda.jpeg
   alt: "Kaitlyn Kolzow Reda, OD"
   title: "Kaitlyn Kolzow Reda, OD"
